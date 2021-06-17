@@ -1,0 +1,1 @@
+To work on Git you should present in the path where your repository present.
